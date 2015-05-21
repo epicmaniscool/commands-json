@@ -1,6 +1,6 @@
 // Magic Book v1.3. Simply copy the following mess of JSON below into the nearest minecraft command block.
 
-give @p written_book 1 0 {title:"Magic Book",author:"The_Webmage",pages:[
+give @p written_book 1 0 {title:"Magic Book",author:"daman",pages:[
 
 "{text:'Clear\n\n',extra:[
 	{text:'* Entities\n',color:black}, 
